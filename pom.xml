@@ -18,6 +18,11 @@
             <artifactId>jetty-webapp</artifactId>
             <version>9.3.4.v20151007</version>
         </dependency>
+        <dependency>
+            <groupId>org.apache.tomcat</groupId>
+            <artifactId>jasper</artifactId>
+            <version>6.0.44</version>
+        </dependency>
     </dependencies>
 
     <build>
@@ -26,9 +31,6 @@
                 <groupId>org.eclipse.jetty</groupId>
                 <artifactId>jetty-maven-plugin</artifactId>
                 <version>9.3.4.v20151007</version>
-                <configuration>
-
-                </configuration>
             </plugin>
         </plugins>
     </build>
