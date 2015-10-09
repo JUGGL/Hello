@@ -5,3 +5,5 @@ HelloWorld.iml
 .gradle/**
 build
 build/**
+target
+target/**
