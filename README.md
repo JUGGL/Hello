@@ -1,5 +1,7 @@
 # A Gradle Project
 
+We can also ask our build tools to **run** our applications as well. In **Gradle**, we use the **application** plugin and we specify the **mainClass** so that Gradle knows which class to execute for us.
+
 ## Compile
 ```
 gradle jar
