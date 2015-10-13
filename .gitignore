@@ -1,3 +1,7 @@
 HelloWorld.iml
 .idea
 .idea/**
+.gradle
+.gradle/**
+build
+build/**
