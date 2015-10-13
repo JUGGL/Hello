@@ -1,5 +1,7 @@
 # A Basic Gradle Project
 
+The next step is to use a build tool to simplify the management of our application and to simplify compiling code when we have a large number of source files. This example uses [Gradle](http://gradle.org/) as the build tool and you can see the build definition in the **build.gradle** file.
+
 ## Compile
 ```
 gradle jar
