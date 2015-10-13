@@ -10,4 +10,4 @@ gradle jar
 java -cp build/libs/HelloWorld.jar us.juggl.hello.Hello
 ```
 
-Next step, go to branch [Step_03](https://github.com/JUGGL/Hello/tree/Step_03)
+Next step, go to branch [Step_04](https://github.com/JUGGL/Hello/tree/Step_04)
